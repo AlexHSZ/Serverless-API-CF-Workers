@@ -1,4 +1,4 @@
-# 👷 `worker-template` Hello World
+# 👷 `Serverless-API` Using Cloudflare Workers
 
 A template for kick starting a Cloudflare worker project.
 
